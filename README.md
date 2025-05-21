@@ -327,4 +327,4 @@ kafka/
 ├── producer_kelembaban.py
 ├── consumer_pyspark.py
 ├── README.md
-└── .venv/                # Direktori virtual environment (opsional, dibuat jika Anda menggunakannya)              # Direktori virtual environment (opsional)
+└── .venv/               
